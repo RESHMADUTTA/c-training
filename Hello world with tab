@@ -1,0 +1,17 @@
+Write a program to print Hello World with tab
+
+
+Case 1
+Input (stdin)
+
+Output (stdout)
+Hello World	Hello World
+
+#include <stdio.h>
+int main()
+{
+   // Try out your code here
+   printf("Hello World\t");
+   printf("Hello World");
+   return 0;
+}
